@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ScreenBuilderFX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ScreenBuilderFX_jar</output-path>
+    <root id="archive" name="ScreenBuilderFX.jar">
+      <element id="module-output" name="ScreenBuilderFX" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.1/javafx-fxml-17.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.1/javafx-controls-17.0.1-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.1/javafx-controls-17.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.1/javafx-fxml-17.0.1-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.1/javafx-base-17.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.1/javafx-base-17.0.1-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.1/javafx-graphics-17.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.1/javafx-graphics-17.0.1-linux.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Netbeans/javaFX 17.0.1/javafx-fxml-17.0.1-linux.jar" />
+      <element id="file-copy" path="$USER_HOME$/Netbeans/javaFX 17.0.1/javafx.controls.jar" />
+      <element id="file-copy" path="$USER_HOME$/Netbeans/javaFX 17.0.1/javafx-controls-17.0.1-linux.jar" />
+      <element id="file-copy" path="$USER_HOME$/Netbeans/javaFX 17.0.1/javafx-base.jar" />
+      <element id="file-copy" path="$USER_HOME$/Netbeans/javaFX 17.0.1/javafx-base-17.0.1-linux.jar" />
+      <element id="file-copy" path="$USER_HOME$/Netbeans/javaFX 17.0.1/javafx-graphics-17.0.1.jar" />
+      <element id="file-copy" path="$USER_HOME$/Netbeans/javaFX 17.0.1/javafx-graphics-17.0.1-linux.jar" />
+      <element id="file-copy" path="$USER_HOME$/Netbeans/javaFX 17.0.1/javafx-media-17.0.1-linux.jar" />
+      <element id="file-copy" path="$USER_HOME$/Netbeans/javaFX 17.0.1/javafx-media-17.0.1.jar" />
+      <element id="file-copy" path="$USER_HOME$/Netbeans/javaFX 17.0.1/javafx-swing-17-linux.jar" />
+      <element id="file-copy" path="$USER_HOME$/Netbeans/javaFX 17.0.1/javafx-web-17.0.1-linux.jar" />
+      <element id="file-copy" path="$USER_HOME$/Netbeans/javaFX 17.0.1/javafx-web-17.0.1.jar" />
+      <element id="file-copy" path="$USER_HOME$/Netbeans/javaFX 17.0.1/javafx.fxml.jar" />
+    </root>
+  </artifact>
+</component>

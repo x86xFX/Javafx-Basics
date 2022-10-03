@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="447.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="process.Controller">
+   <children>
+      <ChoiceBox fx:id="BoxUi" layoutX="149.0" layoutY="127.0" prefWidth="150.0"/>
+      <Label fx:id="statusLabel" alignment="CENTER" layoutY="268.0" prefHeight="35.0" prefWidth="447.0" text="Your choice is :">
+         <font>
+            <Font size="29.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

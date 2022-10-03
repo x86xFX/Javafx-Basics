@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="389.0" prefWidth="414.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="process.Controller">
+   <children>
+      <Slider fx:id="slider" layoutX="29.0" layoutY="27.0" majorTickUnit="10.0" minorTickCount="5" orientation="VERTICAL" prefHeight="336.0" prefWidth="35.0" showTickLabels="true" showTickMarks="true" value="50.0" />
+      <Label layoutX="128.0" layoutY="43.0" text="Volume Meter">
+         <font>
+            <Font size="33.0" />
+         </font>
+      </Label>
+      <Label fx:id="statusLabel" alignment="CENTER" layoutX="189.0" layoutY="187.0">
+         <font>
+            <Font size="33.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

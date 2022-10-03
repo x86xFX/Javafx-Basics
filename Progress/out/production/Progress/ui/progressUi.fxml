@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="176.0" prefWidth="582.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="process.Controller">
+   <children>
+      <ProgressBar fx:id="progressStatus" layoutX="39.0" layoutY="41.0" prefHeight="37.0" prefWidth="356.0" progress="0" />
+      <Label fx:id="statusLabel" alignment="CENTER" layoutX="403.0" layoutY="39.0" text="0%">
+         <font>
+            <Font size="34.0" />
+         </font>
+      </Label>
+      <Button fx:id="progressBtn" layoutX="262.0" layoutY="116.0" mnemonicParsing="false" onAction="#increaseProgress" text="Fill">
+         <font>
+            <Font size="21.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Button>
+   </children>
+</AnchorPane>
